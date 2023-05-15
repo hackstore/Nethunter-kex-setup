@@ -1,5 +1,6 @@
 clear
-echo -e $grn"Installing Required Packages"
+echo -e $grn
+echo -e $grn"Installing Required Packages By ProHunter"
 echo -e $grn
 sudo apt update && sudo apt full-upgrade -y
 echo -e $grn
