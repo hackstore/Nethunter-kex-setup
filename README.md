@@ -1,14 +1,19 @@
 # Nethunter-kex-setup
 
 
-Nethunter nano minimum nad nethunter full 
+Nethunter nano minimum nad nethunter full Kex problem
 
-Kex problem
-
-open nethunter Terminal
-
-con you use Termux type 
-
-nh 
+open nethunter Terminal and type
 
 
+❯❯❯ git clone https://github.com/hackstore/Nethunter-kex-seup.git
+
+❯❯❯ ls
+
+❯❯❯ cd Nethunter-kex-setup
+
+❯❯❯ ls
+
+❯❯❯ chmod +x setup.sh
+
+❯❯❯ ./setup.sh
