@@ -6,14 +6,14 @@ Nethunter nano minimum nad nethunter full Kex problem
 open nethunter Terminal and type
 
 
-❯❯❯ git clone https://github.com/hackstore/Nethunter-kex-setup.git
+'git clone https://github.com/hackstore/Nethunter-kex-setup.git'
 
-❯❯❯ ls
+'ls'
 
-❯❯❯ cd Nethunter-kex-setup
+'cd Nethunter-kex-setup'
 
-❯❯❯ ls
+'ls'
 
-❯❯❯ chmod +x setup.sh
+'chmod +x setup.sh'
 
-❯❯❯ ./setup.sh
+'./setup.sh'
